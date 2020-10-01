@@ -1,12 +1,10 @@
 {
-  "data": [
-    { "id": "p1", "name": "Player 1" },
-    { "id": "p2", "name": "Player 2" },
-    { "id": "p3", "name": "Player 3" },
-    { "id": "p4", "name": "Player 4" },
-    { "id": "p5", "name": "Player 5" },
-    { "id": "p6", "name": "Player 6" },
-    { "id": "p7", "name": "Player 7" },
-    { "id": "p8", "name": "Player 8" }
-  ]
+  "0": { "name": "Player 1", "rating": 0, "history": [] },
+  "1": { "name": "Player 2", "rating": 0, "history": [] },
+  "2": { "name": "Player 3", "rating": 0, "history": [] },
+  "3": { "name": "Player 4", "rating": 0, "history": [] },
+  "4": { "name": "Player 5", "rating": 0, "history": [] },
+  "5": { "name": "Player 6", "rating": 0, "history": [] },
+  "6": { "name": "Player 7", "rating": 0, "history": [] },
+  "7": { "name": "Player 8", "rating": 0, "history": [] }
 }
