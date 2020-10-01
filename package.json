@@ -35,5 +35,18 @@
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
+  },
+  "prettier": {
+    "disableLanguages": [],
+    "useTabs": false,
+    "htmlWhitespaceSensitivity": "ignore",
+    "parser": "flow",
+    "jsxSingleQuote": true,
+    "eslintIntegration": true,
+    "stylelintIntegration": true,
+    "singleQuote": true,
+    "semi": true,
+    "printWidth": 100,
+    "trailingComma": "none"
   }
 }
